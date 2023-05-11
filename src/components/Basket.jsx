@@ -6,7 +6,7 @@ export const Basket = () => {
     const {sepet, total, setTotal,addClick,deleteClick} = useContext(GlobalContext)
 
     const totalPrice = sepet.reduce((pre,sepet) => pre +(sepet.amount*sepet.price),0)
-    setTotal(totalPrice)  // kontrol et bunu useEffect e gerek varmı diye
+    setTotal(totalPrice) 
 
   return (
     <div className="basket">
