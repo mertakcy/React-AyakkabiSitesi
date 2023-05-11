@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Air Force 1",
+        "price": 3000,
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3f3e7049-5c99-428c-abcd-e246b086f2ed/air-force-1-07-ayakkab%C4%B1s%C4%B1-SqKG2H.png"
+    },
+    {
+        "id": 2,
+        "name": "Nike Court Vision Mid Next",
+        "price": 1500,
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e0b75c0f-dd12-4463-81af-b0ccc2d4716e/court-vision-mid-next-nature-ayakkab%C4%B1s%C4%B1-QLllQ9.png"
+    },
+    {
+        "id": 3,
+        "name": "Nike Air Max SC",
+        "price": 2200,
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/26dbce12-4932-44f4-8502-1b79232fea73/air-max-sc-ayakkab%C4%B1s%C4%B1-2SwX5s.png"
+    },
+    {
+        "id": 4,
+        "name": "Nike Venture Runner",
+        "price": 1700,
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c012a5c8-82eb-4b05-b744-dc5091ba3df3/venture-runner-ayakkab%C4%B1s%C4%B1-DcBq1N.png"
+    },
+    {
+        "id": 5,
+        "name": "Nike Air Flight Lite Mid",
+        "price": 2000,
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/de49f5d7-379d-460e-ae66-677849dc4efc/air-flight-lite-mid-ayakkab%C4%B1s%C4%B1-PfhrWT.png"
+    },
+    {
+        "id": 6,
+        "name": "Nike Court Vision Low Next",
+        "price": 1800,
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f831d26d-41ed-41d1-b1ea-5216c871e70c/court-vision-low-next-nature-ayakkab%C4%B1s%C4%B1-JsHv6d.png"
+    },
+    {
+        "id": 7,
+        "name": "Nike Court Legacy Lift",
+        "price": 1750,
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d99657e0-2616-43e5-b92b-f3239dd7c233/court-legacy-lift-ayakkab%C4%B1s%C4%B1-f8hnZF.png"
+    },
+    {
+        "id": 8,
+        "name": "Nike Air Huarache Craft",
+        "price": 1350,
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d5410b82-214b-4628-a06f-e0753795782f/air-huarache-craft-ayakkab%C4%B1s%C4%B1-sf4wks.png"
+    },
+    {
+        "id": 9,
+        "name": "Nike Tanjun Refine",
+        "price": 1850,
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a44069a3-e361-4456-a74e-54ea8f09c81e/tanjun-refine-ayakkab%C4%B1s%C4%B1-CBTLS0.png"
+    }
+]

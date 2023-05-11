@@ -1,0 +1,32 @@
+.navbar {
+    background-color: #4C3D3D;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar a,p {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+#hosGeldi {
+    margin-right: 120px;
+}
+
+@media (max-width:700px) {
+    #hosGeldi {
+        margin-right: 10px;
+    }
+
+    #exit {
+        margin-right: 5px !important
+    }
+}
+
+
+#exit {
+    margin-right: 20px;
+}
